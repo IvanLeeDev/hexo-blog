@@ -14,7 +14,7 @@ hexo 6.3.0
 npm install --save hexo-theme-fluid
 ```
 
-> 执行完命令后，在博客根目录下穿件`_config.fluid.yml`文件，将主题的`_config.yml`内容复制一份进来。
+> 执行完命令后，在博客根目录下穿件`_config.fluid.yml`文件，将主题的`_config.yml`(注：不是站点的，是 fluid 主题下的`_config.yml`文件)内容复制一份进来。
 
 > 2、指定主题：修改博客根目录的`_config.yml`文件。
 
